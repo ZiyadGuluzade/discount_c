@@ -1,0 +1,41 @@
+.about-text-div {
+    width: 100%;
+    padding: 0;
+  }
+
+  hr.about-page-line {
+    width: 80%;
+  }
+}
+
+@media (max-width: 425px) {
+  .about-page {
+    padding: 7rem 1.2rem 0 1.2rem;
+  }
+
+  .about-div {
+    flex-direction: column;
+  }
+
+  h3.about-title {
+    font-size: 2rem;
+  }
+
+  img.about-image {
+    width: 100%;
+  }
+
+  .about-text-div {
+    width: 100%;
+    padding: 0;
+  }
+
+  hr.about-page-line {
+    width: 100%;
+  }
+
+  p.about-text {
+    font-size: 1rem;
+    line-height: 1.6rem;
+  }
+}
