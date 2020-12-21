@@ -1,11 +1,10 @@
 .about-text-div {
-    width: 100%;
-    padding: 0;
-  }
+  width: 100%;
+  padding: 0;
+}
 
-  hr.about-page-line {
-    width: 80%;
-  }
+hr.about-page-line {
+  width: 80%;
 }
 
 @media (max-width: 425px) {
