@@ -6,7 +6,7 @@ import Budget from '../../images/icons/budget_icon.svg'
 import Care from '../../images/icons/care.svg'
 import Time from '../../images/icons/time.svg';
 import Details from '../../images/icons/details.svg';
-import Visit from '../../images/icons/visit.svg';
+// import Visit from '../../images/icons/visit.svg';
 import Schedule from '../../images/icons/schedule.svg';
 import Customer from '../../images/icons/customer_service.svg';
 import Eco from '../../images/icons/eco.svg';

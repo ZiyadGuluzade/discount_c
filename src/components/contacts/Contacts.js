@@ -19,21 +19,21 @@ export class Contacts extends Component {
                         <div className='contacts'>
                             <div className='contacts-info'>
                                 <div className='contacts-icon-text-div'>
-                                    <img className='contact-icon' src={Phone} />
+                                    <img className='contact-icon' alt='phone' src={Phone} />
                                     <p className='service-benefits'>Phone: <a className='phone-link' href='tel:6479044550'>+1(647) 904 4550</a></p>
                                 </div>
                                 <div className='contacts-icon-text-div'>
-                                    <img className='contact-icon' src={Email} />
+                                    <img className='contact-icon' alt='email' src={Email} />
                                     <p className='service-benefits'>Email:<br/> <a className='email-link' href='mailto:generaldiscountcleaning@gmail.com'>generaldiscountcleaning@gmail.com</a></p>
                                 </div>
                                 <div className='contacts-icon-text-div'>
-                                    <img className='contact-icon' src={Business} />
+                                    <img className='contact-icon' alt='business hours' src={Business} />
                                     <p className='service-benefits'>Business hours: Mon - Sun, 8am - 8pm</p>
                                 </div>
                             </div>
 
                             <div className='contacts-img-div'>
-                                <img className='contacts-img' src={ContactsImg} />
+                                <img className='contacts-img' alt='image' src={ContactsImg} />
                             </div>
                         </div>
                     </div>

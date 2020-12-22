@@ -9,11 +9,13 @@ h3.contacts-page-subtitle {
   color: #083746;
   font-size: 2.4rem;
   margin: 0 0 1.2rem 0;
+  text-align: left;
 }
 
 h4.contacts-page-quote {
   font-size: 1.4rem;
   color: #083746;
+  text-align: left;
 }
 
 hr.contacts-page-line {
