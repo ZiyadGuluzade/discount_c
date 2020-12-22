@@ -14,7 +14,7 @@ export class About extends Component {
                     <h3 className='about-title'>ABOUT US</h3>
                     <hr className='about-page-line' />
                     <div className='about-div'>
-                        <img className='about-image' src={CleaningTeam} />
+                        <img className='about-image' alt='cleaning team' src={CleaningTeam} />
                         <div className='about-text-div'>
                             <h4 className='about-text-title'>Cleaning Your Environment</h4>
                             <hr className='about-page-line' />

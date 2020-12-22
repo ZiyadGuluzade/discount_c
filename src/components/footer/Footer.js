@@ -7,7 +7,7 @@ class Footer extends Component {
             <React.Fragment>
                 <section id='footer'>
                     <div className='footer'>
-                        <span>COPYRIGHT 2020 | <strong>General Discount Cleaning</strong> | ALL RIGHTS RESERVED</span>
+                        <span><span>COPYRIGHT 2020</span><strong> | General Discount Cleaning | </strong><span>ALL RIGHTS RESERVED</span></span>
                     </div>
                 </section>  
             </React.Fragment>

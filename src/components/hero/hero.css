@@ -22,6 +22,7 @@
   flex-direction: column;
   padding: 35vh 12rem 0 12rem;
   align-items: flex-start;
+  text-align: left;
 }
 
 h1.company-name {
@@ -74,11 +75,13 @@ h3.info-page-subtitle {
   color: #083746;
   font-size: 2.4rem;
   margin: 0 0 1.2rem 0;
+  text-align: left;
 }
 
 h4.info-page-quote {
   font-size: 1.4rem;
   color: #083746;
+  text-align: left;
 }
 
 hr.subtitle-line {
@@ -133,11 +136,13 @@ h3.services-page-subtitle {
   color: #083746;
   font-size: 2.4rem;
   margin: 0 0 1.2rem 0;
+  text-align: left;
 }
 
 h4.services-page-quote {
   font-size: 1.4rem;
   color: #083746;
+  text-align: left;
 }
 
 hr.services-page-line {
@@ -172,6 +177,7 @@ h4.service-name {
   font-size: 1.4rem;
   margin: 0.4rem 0 0 0;
   color: #083746;
+  text-align: left;
 }
 
 /* meadia queries */
@@ -281,7 +287,7 @@ h4.service-name {
   }
 
   hr.services-page-line {
-    width: 80%;
+    width: 100%;
   }
 
   .services-row {
